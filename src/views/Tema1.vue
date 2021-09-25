@@ -26,12 +26,10 @@
           strong Tabla 1 
           span Diferencias entre usuario y cliente
         .tabla-b.color-acento-contenido.mb-5
-          .tabla-b__header
-            h5.mb-0 Niveles del lenguaje
           table
             tr
-              th Usuario
-              td Cliente
+              th.tabla-b__header.text-white Usuario
+              td.tabla-b__header.text-white.text-bold Cliente
             tr
               th Utiliza
               td Paga
@@ -223,7 +221,7 @@
 
     p.mb-5 Por otro lado, con la naturaleza de los productos, los mercados industriales pueden clasificarse en:
 
-    ol.lista-ol--cuadro.mb-5
+    ol.lista-ol--cuadro.lista-ol--separador.mb-5
       li 
         .lista-ol--cuadro__vineta
           span 1
@@ -258,7 +256,7 @@
           h1.mb-2 A.
           p.mb-0 Minoristas
       .col-md-3.mb-5.mb-md-0
-        .box-rounded.px-4.py-5
+        .box-rounded.soft.px-4.py-5
           h1.mb-2 B.
           p.mb-0 Mayoristas
       .col-md-3.mb-5.mb-md-0
@@ -266,7 +264,7 @@
           h1.mb-2 C.
           p.mb-0 Corredores
       .col-md-3
-        .box-rounded.px-4.py-5
+        .box-rounded.soft.px-4.py-5
           h1.mb-2 D.
           p.mb-0 Buhoneros
 
@@ -299,7 +297,7 @@
 
     .row.justify-content-center
       .col-md-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1-imagen16.png')})`}"
           )
