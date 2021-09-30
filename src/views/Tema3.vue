@@ -8,10 +8,10 @@
         span 3
       h1 Clasificación de clientes
 
-    p.mb-5 Desde el punto de vista del mercadeo son dos grupos principales de clientes: los clientes actuales y los potenciales. Explicados a continuación:
+    p.mb-5(data-aos="fade-left" data-aos-delay="300") Desde el punto de vista del mercadeo son dos grupos principales de clientes: los clientes actuales y los potenciales. Explicados a continuación:
 
     .tarjeta--container.row.mb-5
-      .col-md.tarjeta.color-secundario.p-5
+      .col-md.tarjeta.color-secundario.p-5(data-aos="fade-right" data-aos-delay="300")
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -23,7 +23,7 @@
           br
           | Para conservar a los clientes actuales, las empresas deben lograr la plena satisfacción de sus clientes, no sólo con la entrega de productos de excelente calidad, sino brindando un nivel de servicio que los mantenga satisfechos y compren siempre la marca.
 
-      .col-md.tarjeta.color-acento-contenido.p-5
+      .col-md.tarjeta.color-acento-contenido.p-5(data-aos="fade-left" data-aos-delay="300")
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -31,9 +31,9 @@
         h2.text-center.text-white Clientes potenciales
         p.text-white Los clientes potenciales son aquellos que probablemente adquirirán alguno de los productos o servicios que son ofertados por la empresa, pero aún no deciden la compra. Para que una empresa logre el crecimiento esperado debe procurar atraer estos clientes y lograr así aumentar su cuota de mercado o participación en el mismo. Para atraer nuevos clientes la empresa debe tener un producto diferenciado que genere valor para los clientes y se diferencie y supere lo que ofrece la competencia.
     
-    p.mb-5 De acuerdo con la Pursell (s.f.), de la revista HupSpot, los clientes potenciales se componen en:
+    p.mb-5(data-aos="fade" data-aos-delay="300") De acuerdo con la Pursell (s.f.), de la revista HupSpot, los clientes potenciales se componen en:
 
-    SlyderB.mb-5(:datos="datosSlyder")
+    SlyderB.mb-5(:datos="datosSlyder")(data-aos="fade-down" data-aos-delay="300")
   
 </template>
 

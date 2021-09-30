@@ -9,40 +9,40 @@
       h1 Relación del mercadeo y los clientes
 
     .row.justify-content-center.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right" data-aos-delay="300")
         p.mb-0 El marketing relacional de acuerdo con Gronroos (1994), es el “conjunto de relaciones a largo plazo que las empresas pretenden crear, mantener y fomentar con clientes, con el objetivo de alcanzar una relación sólida y duradera, mantener el mayor número de negocios con sus clientes y obtener el mayor beneficio” (p.142). 
           br
           br
           | La empresa toma de las herramientas del mercadeo y de su portafolio de oferta la mejor manera de crear valor que le signifique una relación a largo plazo con el cliente. Lo siguiente son aspectos básicos de la gestión de clientes, cómo captarlos y fidelizarlos a través del desarrollo de acciones de promoción y la atención a sus quejas y reclamaciones.
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left" data-aos-delay="300")
         figure
           img(src="@/assets/curso/tema2-imagen1.png")
 
-    p.mb-5 De acuerdo con esto, Gronroos (1990) (en Agüero, 2014, p. 8) propone las siguientes funciones del marketing relacional que debe llevar una empresa:
+    p.mb-5(data-aos="fade-up" data-aos-delay="300") De acuerdo con esto, Gronroos (1990) (en Agüero, 2014, p. 8) propone las siguientes funciones del marketing relacional que debe llevar una empresa:
 
     .row.justify-content-center.mb-5
-      .col-md-11
+      .col-md-11(data-aos="fade-right" data-aos-delay="300")
         .titulo-sexto.color-acento-contenido
           h5 Figura 7
           span Funciones del marketing relacional
-      .col-md-10
+      .col-md-10(data-aos="fade-left" data-aos-delay="300")
         figure
           img(src="@/assets/curso/tema2-imagen2.svg")
     
     .row.justify-content-center
-      .col-lg-5.mb-5.mb-lg-0
+      .col-lg-5.mb-5.mb-lg-0(data-aos="fade-left" data-aos-delay="300")
         .h5 Con base en lo anterior, se concluye que toda empresa que quiera alcanzar el éxito dentro del mercado debe enfocarse en el cliente. 
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right" data-aos-delay="300")
         span Solo las empresas que conocen y entienden de mejor manera las necesidades, los intereses y deseos de sus clientes, son aquellas capaces de preparar las mejores propuestas de productos para ser entregados al mercado .
     
     Separador
 
-    #t_2_1.titulo-segundo
+    #t_2_1.titulo-segundo(data-aos="fade" data-aos-delay="300")
       h2 2.1  Atraer clientes
 
-    p.mb-5 Para atraer clientes a la empresa, soportados en el portafolio de productos y su valor agregado, esta debe seguir un proceso de captación. Hay que destacar que cada empresa y cada tipo de cliente necesita un proceso adaptado a sus características y particularidades propias. A continuación,  se presenta un proceso general que sirve de modelo para aquellas empresas que quieren mantener una base de clientes sólida y en crecimiento:
+    p.mb-5(data-aos="fade" data-aos-delay="300") Para atraer clientes a la empresa, soportados en el portafolio de productos y su valor agregado, esta debe seguir un proceso de captación. Hay que destacar que cada empresa y cada tipo de cliente necesita un proceso adaptado a sus características y particularidades propias. A continuación,  se presenta un proceso general que sirve de modelo para aquellas empresas que quieren mantener una base de clientes sólida y en crecimiento:
 
-    .row.justify-content-center.mb-5 
+    .row.justify-content-center.mb-5(data-aos="fade" data-aos-delay="300")
       .col-lg-10
         LineaTiempoD.color-primario
           div.text-small.px-4.py-3(numero="1" titulo="Identificar a los clientes")
@@ -94,27 +94,27 @@
               | Para ello, la empresa debe destinar recursos humanos, monetarios y de tiempo que deben ser tenidos en cuenta a la hora de realizar la comunicación para captar clientes. Todo lo anterior con el objetivo de obtener pleno conocimiento en la forma como estos se comportan en un proceso de compra.
 
     
-    p.mb-5 De acuerdo con Promove Consultoría e formación SLNE (2012), existen acciones establecidas para captar clientes:
+    p.mb-5(data-aos="fade" data-aos-delay="300") De acuerdo con Promove Consultoría e formación SLNE (2012), existen acciones establecidas para captar clientes:
 
     FlipCards.mb-5(:items="flips1")
 
-    p.mb-5 Todas estas acciones aplicadas a los segmentos seleccionados y con un conocimiento de la competencia, se podrán realizar planes de captación de clientes en los que se definan claramente los segmentos de clientes de mayor a menor valor a captar, así como los recursos comerciales y de mercadeo que se deben asignar a cada segmento.
+    p.mb-5(data-aos="fade" data-aos-delay="300") Todas estas acciones aplicadas a los segmentos seleccionados y con un conocimiento de la competencia, se podrán realizar planes de captación de clientes en los que se definan claramente los segmentos de clientes de mayor a menor valor a captar, así como los recursos comerciales y de mercadeo que se deben asignar a cada segmento.
 
-    Separador
+    Separador(data-aos="fade" data-aos-delay="300")
 
-    #t_2_2.titulo-segundo
+    #t_2_2.titulo-segundo(data-aos="fade" data-aos-delay="300")
       h2 2.2  Retener clientes
 
     .row.justify-content-center.mb-5
-      .col-md-5
+      .col-md-5(data-aos="fade-right" data-aos-delay="300")
         p.mb-0
           strong Sucede cuando una empresa planifica un conjunto de estrategias de fidelización y acciones con la finalidad de mantener a los clientes actuales a largo plazo. 
-      .col-md-7
+      .col-md-7(data-aos="fade-left" data-aos-delay="300")
         p.mb-0 Retener a un cliente que viene comprando,  es más económico que conseguir uno nuevo al que hay que invertir muchos recursos . 
     
-    p.mb-5 En este sentido, las empresas deben revisar aquellos clientes que compraron y que no volvieron hacerlo por alguna razón. Esos clientes están registrados en la base de datos o en la cartera aparecen como inactivos. De tal manera, que junto a las acciones que se utilizan para captar clientes debe unirse acciones para mantener a los actuales y ofrecerles, de acuerdo con su perfil y segmento, elementos promocionales como: descuentos, ofertas, cupones promocionales, vinculaciones a apps, invitaciones a participar en focus group, entre otros que son más detallados en las estrategias de fidelización para los clientes nuevos y los actuales. La siguiente figura presenta algunas recomendaciones:
+    p.mb-5(data-aos="fade" data-aos-delay="300") En este sentido, las empresas deben revisar aquellos clientes que compraron y que no volvieron hacerlo por alguna razón. Esos clientes están registrados en la base de datos o en la cartera aparecen como inactivos. De tal manera, que junto a las acciones que se utilizan para captar clientes debe unirse acciones para mantener a los actuales y ofrecerles, de acuerdo con su perfil y segmento, elementos promocionales como: descuentos, ofertas, cupones promocionales, vinculaciones a apps, invitaciones a participar en focus group, entre otros que son más detallados en las estrategias de fidelización para los clientes nuevos y los actuales. La siguiente figura presenta algunas recomendaciones:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade" data-aos-delay="300")
       .col-md-11
         .titulo-sexto.color-acento-contenido
           h5 Figura 8
@@ -122,15 +122,15 @@
         figure
           img(src="@/assets/curso/tema2-imagen11.svg")
     
-    Separador
+    Separador(data-aos="fade" data-aos-delay="300")
 
-    #t_2_3.titulo-segundo
+    #t_2_3.titulo-segundo(data-aos="fade" data-aos-delay="300")
       h2 2.3  Fidelizar clientes
 
-    p.mb-5 La fidelización se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a lo largo del tiempo.
+    p.mb-5(data-aos="fade" data-aos-delay="300") La fidelización se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a lo largo del tiempo.
 
     .row.justify-content-center.mb-5
-      .col-lg-4.mb-5.mb-lg-0
+      .col-lg-4.mb-5.mb-lg-0(data-aos="fade-right" data-aos-delay="300")
         .bloque-texto-d.color-primario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
@@ -138,17 +138,17 @@
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h6.mb-0.text-regular  (Escamilla, 2020 ).
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left" data-aos-delay="300")
         p.mb-0 Un cliente es leal basado en un conjunto de interacciones satisfactorias con la empresa. La fidelización busca principalmente: 1) que el cliente siga comprando a lo largo del tiempo, y 2) aumentar el volumen de compra.
           br
           br
           | Basado en lo anterior, el siguiente video expone lo que conlleva el proceso de fidelización de un cliente, sus grados de satisfacción y la estrategia que se utiliza bajo los pasos del mercado relacional:
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade" data-aos-delay="300")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 La empresa debe incluir en su plan de fidelización programas que procuren mantener un vínculo de comunicación entre la empresa y los clientes. Entre los más utilizados se encuentran los siguientes.
+    p.mb-5(data-aos="fade" data-aos-delay="300") La empresa debe incluir en su plan de fidelización programas que procuren mantener un vínculo de comunicación entre la empresa y los clientes. Entre los más utilizados se encuentran los siguientes.
 
     FlipCards(:items="flips2")
   

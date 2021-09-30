@@ -8,9 +8,9 @@
         span 1
       h1 El cliente
 
-    p.mb-5 Un cliente es la persona o entidad que accede a un producto o servicio por medio de una transacción financiera (dinero) u otro medio de pago. Es quien compra (comprador) y quien consume (consumidor). La siguiente figura ilustra un poco más la claridad de estos roles:
+    p(data-aos="fade-left" data-aos-delay="300").mb-5 Un cliente es la persona o entidad que accede a un producto o servicio por medio de una transacción financiera (dinero) u otro medio de pago. Es quien compra (comprador) y quien consume (consumidor). La siguiente figura ilustra un poco más la claridad de estos roles:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-delay="300")
       .col-lg-11
         .titulo-sexto.color-acento-contenido
           strong Figura 1 
@@ -18,9 +18,9 @@
         figure
           img(src="@/assets/curso/tema1-imagen1.svg")
 
-    p.mb-5 La siguiente tabla refuerza el concepto y diferencia entre usuario y cliente.
+    p.mb-5(data-aos="fade-left" data-aos-delay="300") La siguiente tabla refuerza el concepto y diferencia entre usuario y cliente.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right" data-aos-delay="300")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           strong Tabla 1 
@@ -46,53 +46,53 @@
               th Obligación pasajera
               td Relación a largo plazo
     
-    p.mb-5 Indudablemente, el cliente es el principal objetivo hacia donde la empresa realiza su mayor esfuerzo, hacía él todos los planes y las estrategias de mercadeo deben enfocarse, desarrollarse e implementarse en función de ese cliente. Por tanto, las empresas tienen diferentes compradores o clientes de acuerdo con el tipo o segmento de mercado en el que compiten o en el que comercializan sus productos. La siguiente figura presenta otros conceptos que se tienden a usar para referirse al mercado, según Schnarch
+    p.mb-5(data-aos="fade-left" data-aos-delay="300") Indudablemente, el cliente es el principal objetivo hacia donde la empresa realiza su mayor esfuerzo, hacía él todos los planes y las estrategias de mercadeo deben enfocarse, desarrollarse e implementarse en función de ese cliente. Por tanto, las empresas tienen diferentes compradores o clientes de acuerdo con el tipo o segmento de mercado en el que compiten o en el que comercializan sus productos. La siguiente figura presenta otros conceptos que se tienden a usar para referirse al mercado, según Schnarch
       br
       | (2013, p. 74):
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-up" data-aos-delay="300")
       strong Figura 2 
       span Conceptos de mercado
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-up" data-aos-delay="400")
       .col-lg-10
         figure
           img(src="@/assets/curso/tema1-imagen2.svg")
 
-    p.mb-5 Cada mercado debe conocer sus clientes, la manera cómo decide comprar, cómo convertirlo de Shopper a Buyer y monetizarlo, etc. Este cliente sigue un proceso racional de compra, de acuerdo como lo indica Promove Consultoría e formación, SLNE (2012, p. 15) y que se aprecia a continuación:
+    p.mb-5(data-aos="fade-right" data-aos-delay="300") Cada mercado debe conocer sus clientes, la manera cómo decide comprar, cómo convertirlo de Shopper a Buyer y monetizarlo, etc. Este cliente sigue un proceso racional de compra, de acuerdo como lo indica Promove Consultoría e formación, SLNE (2012, p. 15) y que se aprecia a continuación:
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-up" data-aos-delay="300")
       strong Figura 3 
       span Proceso de compra
     .row.justify-content-center.mb-5
-      .col-lg-2
+      .col-lg-2(data-aos="fade-up" data-aos-delay="300")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen17.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido.principal
             .p-4
               p.mb-0 Manifestación de la necesidad latente o palpable.
 
-      .col-lg-2
+      .col-lg-2(data-aos="fade-down" data-aos-delay="300")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen18.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido.secundario
             .p-4
               p.mb-0 Búsqueda pasiva de la información.
       
-      .col-lg-2
+      .col-lg-2(data-aos="fade-up" data-aos-delay="300")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen19.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido.principal
             .p-4
               p.mb-0 Evaluación de las distintas alternativas.
       
-      .col-lg-2
+      .col-lg-2(data-aos="fade-down" data-aos-delay="300")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen20.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido.secundario
             .p-4
               p.mb-0 Elección y compra.
 
-      .col-lg-2
+      .col-lg-2(data-aos="fade-up" data-aos-delay="300")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen21.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido.principal
@@ -100,20 +100,20 @@
               p.mb-0 Comportamiento posventa.
 
 
-    p.mb-5 Con base en lo anterior y de acuerdo a los diferentes mercados, que posteriormente se explicarán, se presenta la relación entre estos y el cliente:
+    p.mb-5(data-aos="fade-right" data-aos-delay="300") Con base en lo anterior y de acuerdo a los diferentes mercados, que posteriormente se explicarán, se presenta la relación entre estos y el cliente:
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-delay="300")
       .col-lg-8
         figure
           img(src="@/assets/curso/tema1-imagen3.svg")
 
-    Separador
+    Separador(data-aos="fade" data-aos-delay="300")
 
 
-    #t_1_1.titulo-segundo
+    #t_1_1.titulo-segundo(data-aos="fade" data-aos-delay="300")
       h2 1.1  Mercado de consumo
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade" data-aos-delay="300")
       .col-lg-6.mb-5.mb-lg-0
         figure
           img(src="@/assets/curso/tema1-imagen5.png")

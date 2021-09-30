@@ -8,12 +8,12 @@
         span 4
       h1 Prospección de los clientes
 
-    p.mb-5 Se puede interpretar a la prospección  como la búsqueda, localización e identificación de prospectos potenciales a través de actividades planeadas y métodos técnicos. La prospección de clientes hace parte del primer paso del proceso de la venta y consiste en encontrar posibles clientes de una empresa que tiene  grandes posibilidades de serlo.
+    p.mb-5(data-aos="fade" data-aos-delay="300") Se puede interpretar a la prospección  como la búsqueda, localización e identificación de prospectos potenciales a través de actividades planeadas y métodos técnicos. La prospección de clientes hace parte del primer paso del proceso de la venta y consiste en encontrar posibles clientes de una empresa que tiene  grandes posibilidades de serlo.
       br
       br
       | Los pasos necesarios en la realización de una venta son los siguientes:  
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-delay="300")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 10
@@ -21,27 +21,27 @@
         figure
           img(src="@/assets/curso/tema4-imagen1.svg")
     
-    p.mb-5 El siguiente video profundiza un poco más sobre el proceso de prospección: 
+    p.mb-5(data-aos="fade" data-aos-delay="300") El siguiente video profundiza un poco más sobre el proceso de prospección: 
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-left" data-aos-delay="300")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 Al contar con una base de datos muy elaborada con clientes segmentados según la oferta de productos de la empresa, se busca el acercamiento con cada prospecto y se pueden señalar dos puntos importantes:
+    p.mb-5(data-aos="fade" data-aos-delay="300") Al contar con una base de datos muy elaborada con clientes segmentados según la oferta de productos de la empresa, se busca el acercamiento con cada prospecto y se pueden señalar dos puntos importantes:
 
     .row.justify-content-center.mb-5 
-      .col-md-5.mb-5.mb-md-0.d-flex
+      .col-md-5.mb-5.mb-md-0.d-flex(data-aos="fade-left" data-aos-delay="300")
         .box-rounded.soft.blue.px-4.py-5
           h1.mb-2 A.
           p.mb-0 Tiene como propósito identificar prospectos e iniciar la comunicación con el cliente.
-      .col-md-5.mb-5.mb-md-0.d-flex
+      .col-md-5.mb-5.mb-md-0.d-flex(data-aos="fade-right" data-aos-delay="300")
         .box-rounded.blue.px-4.py-5
           h1.mb-2 B.
           p.mb-0  Requiere de un análisis previo del modelo de negocio (propio) y conocimiento detallado del negocio (mercado) en el cual se encuentra el o los clientes objetivo.
 
-    p.mb-5 Se compone de los siguientes pasos:
+    p.mb-5(data-aos="fade" data-aos-delay="300") Se compone de los siguientes pasos:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-down" data-aos-delay="300")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 11
@@ -49,7 +49,7 @@
         figure
           img(src="@/assets/curso/tema4-imagen2.svg")
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade" data-aos-delay="300")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 12

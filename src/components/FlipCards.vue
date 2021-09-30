@@ -1,6 +1,6 @@
 <template lang="pug">
   .row.justify-content-center
-    .col-lg-3.col-md-4.col-sm-6.col-12.mb-5(v-for="item in items" :key="item.key")
+    .col-lg-3.col-md-4.col-sm-6.col-12.mb-5(v-for="item in items" :key="item.key")(data-aos="fade" data-aos-delay="400")
       .tarjeta.tarjeta-flip.color-blanco(@mouseover="item.indicadorTarjetaFlip = false")
         .indicador--hover(v-if="item.indicadorTarjetaFlip")
         .tarjeta-flip__contenedor
