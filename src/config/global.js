@@ -183,7 +183,7 @@ export default {
       link: 'https://blog.hubspot.es/marketing/tipos-de-clientes-potenciales',
     },
     {
-      referencia: 'Quiroa, M. (2020). Cliente. Economipedia.',
+      referencia: 'Quiroa, M. (2020). Cliente. Economipedia. ',
       link: 'https://economipedia.com/definiciones/cliente.html',
     },
     {
