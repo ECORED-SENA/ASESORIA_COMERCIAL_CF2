@@ -9,7 +9,7 @@
           .tarjeta-flip__contenido.flipper-especial(:style="{'background-image': `url(${item.img})`}")
             div(:style="{'background-color': `${item.reverseBackgroundColor}`}")
             p.mb-0.p-4(:style="{'color': `${item.reverseFontColor}`}")
-              strong {{ item.title }}
+              strong(v-html="item.title")
               br
               br
               | {{ item.content }}

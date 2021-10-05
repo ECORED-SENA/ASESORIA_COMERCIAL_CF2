@@ -139,27 +139,27 @@ export default {
   referencias: [
     {
       referencia:
-        'Agüero, C. (2014). Estrategia de fidelización de clientes. Universidad de Cantabria.',
+        'Agüero, C. (2014). Estrategia de fidelización de clientes. Universidad de Cantabria. ',
     },
     {
       referencia:
-        'Escamilla, G. (2020). Fidelización del cliente: concepto, importancia, consejos y métricas. RD Station.',
+        'Escamilla, G. (2020). Fidelización del cliente: concepto, importancia, consejos y métricas. RD Station. ',
       link: 'https://www.rdstation.com/co/blog/fidelizacion-del-cliente/',
     },
     {
       referencia:
-        'González, M. (2002). Concepto de mercado y sus tipos. Gestiópolis.',
+        'González, M. (2002). Concepto de mercado y sus tipos. Gestiópolis. ',
       link: 'https://www.gestiopolis.com/concepto-mercado-tipos/',
     },
     {
       referencia:
-        'González Camacho, M. (2018). Segmentación, Definición de Público Objetivo y Posicionamiento. [presentación] Universidad Interamericana para el desarrollo. ',
+        'González Camacho, M. (2018). Segmentación, Definición de Público Objetivo y Posicionamiento. Universidad Interamericana para el desarrollo. ',
       link:
         'http://docplayer.es/53991436-Segmentacion-definicion-de-publico-objetivo-y-posicionamiento.html',
     },
     {
       referencia:
-        'Gronroos, C. (1994). Marketing y Gestión de servicios. Diaz de Santos. 1a Edición.',
+        'Gronroos, C. (1994). <i>Marketing</i> y Gestión de servicios. Diaz de Santos. 1a Edición. ',
     },
     {
       referencia:
@@ -168,18 +168,18 @@ export default {
     },
     {
       referencia:
-        'INSTIPP. (2020). Marketing. Instituto Superior Tecnológico Ismael Pérez Pazmiño.',
+        'INSTIPP. (2020). <i>Marketing</i>. Instituto Superior Tecnológico Ismael Pérez Pazmiño. ',
       link:
         'http://instipp.edu.ec/instipp/assets/pdf/guias/contabilidad/CO-S5-MK.pdf',
     },
     {
       referencia:
-        'Promove Consultoría e formación SLNE. (2012). Atraer y fidelizar clientes. CEEI Galicia.',
+        'Promove Consultoría e Formación SLNE. (2012). Atraer y fidelizar clientes. CEEI Galicia. ',
       link: 'https://issuu.com/josevalencia/docs/atraer_y_fidelizar_clientes',
     },
     {
       referencia:
-        'Pursell, S. (2021). Clientes potenciales: qué son, qué tipos existen y cómo identificarlos. HobSpot.',
+        'Pursell, S. (2021). Clientes potenciales: qué son, qué tipos existen y cómo identificarlos. HobSpot. ',
       link: 'https://blog.hubspot.es/marketing/tipos-de-clientes-potenciales',
     },
     {
@@ -188,16 +188,17 @@ export default {
     },
     {
       referencia:
-        'Redacción emprendedores (2021). ¿Qué significa modelo de negocio? Emprendedores.es.',
+        'Redacción emprendedores (2021). ¿Qué significa modelo de negocio? Emprendedores.es. ',
       link:
         'https://www.emprendedores.es/estrategia/que-significa-modelo-de-negocio/',
     },
     {
-      referencia: 'Schnarch, A. (2013). Marketing para pymes. Alfa Omega. ',
+      referencia:
+        'Schnarch, A. (2013). <i>Marketing</i> para pymes. Alfa Omega. ',
     },
     {
       referencia:
-        'Torres Morales, V. (2014). Administración de ventas. Grupo Editorial Patria.',
+        'Torres Morales, V. (2014). Administración de ventas. Grupo Editorial Patria. ',
     },
   ],
   glosario: [
@@ -234,7 +235,7 @@ export default {
     {
       termino: 'Segmento de mercado',
       significado:
-        'es un grupo de consumidores, en su mayoría homogéneo, ya sea por determinadas características o por sus necesidades, los cuales son identificados como un mercado que presenta deseos o hábitos de compra parecidas y que potencialmente responderían similar a la estrategia desarrollada por el mix de marketing. (Quiroa, 2020)',
+        'es un grupo de consumidores, en su mayoría homogéneo, ya sea por determinadas características o por sus necesidades, los cuales son identificados como un mercado que presenta deseos o hábitos de compra parecidas y que potencialmente responderían similar a la estrategia desarrollada por el mix de <i>marketing</i>. (Quiroa, 2020)',
     },
   ],
   complementario: [
@@ -251,14 +252,14 @@ export default {
     },
     {
       texto:
-        'Pacheco, J. (2020). Web y empresas. Mercado de Consumo (definición, características y clasificación). Web y empresa. ',
+        'Pacheco, J. (2020). <i>Web</i> y empresas. Mercado de Consumo (definición, características y clasificación). <i>Web</i> y empresa. ',
       tipo: 'Pagina web',
       link:
         'https://www.webyempresas.com/mercado-de-consumo-definicion-caracteristicas-y-clasificacion/',
     },
     {
       texto:
-        'González, M. (2002). Concepto de mercado y sus tipos. Gestiopolis.',
+        'González, M. (2002). Concepto de mercado y sus tipos. Gestiopolis. ',
       tipo: 'Pagina web',
       link: 'https://www.gestiopolis.com/concepto-mercado-tipos/',
     },
@@ -300,7 +301,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Javier del Carmen Martínez Pérez',
+        cargo: 'Instructor técnico',
+        centro: 'Centro de Comercio y Servicios - Regional Bolívar',
+      },
+      {
+        nombre: 'Miroslava González Hernández',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisión de estilo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [
@@ -308,33 +330,68 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'María Natalia Maldonado Delgado',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ricardo Vásquez Arroyave',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ernesto Navarro Jaimes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Sergio Omar Camacho Orduz',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

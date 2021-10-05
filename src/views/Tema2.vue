@@ -10,7 +10,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right" data-aos-delay="300")
-        p.mb-0 El marketing relacional de acuerdo con Gronroos (1994), es el “conjunto de relaciones a largo plazo que las empresas pretenden crear, mantener y fomentar con clientes, con el objetivo de alcanzar una relación sólida y duradera, mantener el mayor número de negocios con sus clientes y obtener el mayor beneficio” (p.142). 
+        p.mb-0 El <i>marketing</i> relacional de acuerdo con Gronroos (1994), es el “conjunto de relaciones a largo plazo que las empresas pretenden crear, mantener y fomentar con clientes, con el objetivo de alcanzar una relación sólida y duradera, mantener el mayor número de negocios con sus clientes y obtener el mayor beneficio” (p.142). 
           br
           br
           | La empresa toma de las herramientas del mercadeo y de su portafolio de oferta la mejor manera de crear valor que le signifique una relación a largo plazo con el cliente. Lo siguiente son aspectos básicos de la gestión de clientes, cómo captarlos y fidelizarlos a través del desarrollo de acciones de promoción y la atención a sus quejas y reclamaciones.
@@ -18,13 +18,13 @@
         figure
           img(src="@/assets/curso/tema2-imagen1.png")
 
-    p.mb-5(data-aos="fade-up" data-aos-delay="300") De acuerdo con esto, Gronroos (1990) (en Agüero, 2014, p. 8) propone las siguientes funciones del marketing relacional que debe llevar una empresa:
+    p.mb-5(data-aos="fade-up" data-aos-delay="300") De acuerdo con esto, Gronroos (1990) (en Agüero, 2014, p. 8) propone las siguientes funciones del <i>marketing</i> relacional que debe llevar una empresa:
 
     .row.justify-content-center.mb-5
       .col-md-11(data-aos="fade-right" data-aos-delay="300")
         .titulo-sexto.color-acento-contenido
           h5 Figura 7
-          span Funciones del marketing relacional
+          span Funciones del <i>marketing</i> relacional
       .col-md-10(data-aos="fade-left" data-aos-delay="300")
         figure
           img(src="@/assets/curso/tema2-imagen2.svg")
@@ -33,7 +33,7 @@
       .col-lg-5.mb-5.mb-lg-0(data-aos="fade-left" data-aos-delay="300")
         .h5 Con base en lo anterior, se concluye que toda empresa que quiera alcanzar el éxito dentro del mercado debe enfocarse en el cliente. 
       .col-lg-7(data-aos="fade-right" data-aos-delay="300")
-        span Solo las empresas que conocen y entienden de mejor manera las necesidades, los intereses y deseos de sus clientes, son aquellas capaces de preparar las mejores propuestas de productos para ser entregados al mercado .
+        span Solo las empresas que conocen y entienden de mejor manera las necesidades, los intereses y deseos de sus clientes, son aquellas capaces de preparar las mejores propuestas de productos para ser entregados al mercado.
     
     Separador
 
@@ -94,7 +94,7 @@
               | Para ello, la empresa debe destinar recursos humanos, monetarios y de tiempo que deben ser tenidos en cuenta a la hora de realizar la comunicación para captar clientes. Todo lo anterior con el objetivo de obtener pleno conocimiento en la forma como estos se comportan en un proceso de compra.
 
     
-    p.mb-5(data-aos="fade" data-aos-delay="300") De acuerdo con Promove Consultoría e formación SLNE (2012), existen acciones establecidas para captar clientes:
+    p.mb-5(data-aos="fade" data-aos-delay="300") De acuerdo con Promove Consultoría e Formación SLNE (2012), existen acciones establecidas para captar clientes:
 
     FlipCards.mb-5(:items="flips1")
 
@@ -112,7 +112,7 @@
       .col-md-7(data-aos="fade-left" data-aos-delay="300")
         p.mb-0 Retener a un cliente que viene comprando,  es más económico que conseguir uno nuevo al que hay que invertir muchos recursos . 
     
-    p.mb-5(data-aos="fade" data-aos-delay="300") En este sentido, las empresas deben revisar aquellos clientes que compraron y que no volvieron hacerlo por alguna razón. Esos clientes están registrados en la base de datos o en la cartera aparecen como inactivos. De tal manera, que junto a las acciones que se utilizan para captar clientes debe unirse acciones para mantener a los actuales y ofrecerles, de acuerdo con su perfil y segmento, elementos promocionales como: descuentos, ofertas, cupones promocionales, vinculaciones a apps, invitaciones a participar en focus group, entre otros que son más detallados en las estrategias de fidelización para los clientes nuevos y los actuales. La siguiente figura presenta algunas recomendaciones:
+    p.mb-5(data-aos="fade" data-aos-delay="300") En este sentido, las empresas deben revisar aquellos clientes que compraron y que no volvieron hacerlo por alguna razón. Esos clientes están registrados en la base de datos o en la cartera aparecen como inactivos. De tal manera, que junto a las acciones que se utilizan para captar clientes debe unirse acciones para mantener a los actuales y ofrecerles, de acuerdo con su perfil y segmento, elementos promocionales como: descuentos, ofertas, cupones promocionales, vinculaciones a apps, invitaciones a participar en <i>focus group</i>, entre otros que son más detallados en las estrategias de fidelización para los clientes nuevos y los actuales. La siguiente figura presenta algunas recomendaciones:
 
     .row.justify-content-center.mb-5(data-aos="fade" data-aos-delay="300")
       .col-md-11
@@ -165,9 +165,9 @@ export default {
     // variables de vue
     flips1: [
       {
-        title: 'Fomentar que los clientes actuales informen o recomienden ',
-        content:
-          'el establecimiento a otros posibles clientes o bien pongan al empresario en contacto con ellos.',
+        title:
+          'Fomentar que los clientes actuales informen o recomienden el establecimiento a otros posibles clientes o bien pongan al empresario en contacto con ellos.',
+        content: '',
         img: require('@/assets/curso/tema2-imagen3.svg'),
         reverseBackgroundColor: '#FFFFFF',
         reverseFontColor: '#12263F',
@@ -210,9 +210,9 @@ export default {
         showTitleFront: false,
       },
       {
-        title: 'Contactar con los clientes utilizando sitios web ',
+        title: 'Contactar con los clientes utilizando sitios <i>web</i> ',
         content:
-          'Disponer de una web, un blog, una cuenta en Facebook o cualquier otra red social vertical u horizontal donde se encuentren los potenciales clientes.',
+          'Disponer de una <i>web</i>, un blog, una cuenta en Facebook o cualquier otra red social vertical u horizontal donde se encuentren los potenciales clientes.',
         img: require('@/assets/curso/tema2-imagen8.svg'),
         reverseBackgroundColor: '#FFFFFF',
         reverseFontColor: '#12263F',

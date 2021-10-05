@@ -21,7 +21,7 @@
         p Son todos los clientes que la empresa posee actualmente y por tanto representan un activo muy valioso; sobre todo para mantener el nivel de participación dentro del mercado total. Los clientes actuales se pueden mantener y aumentar su volumen de compra de la oferta de la empresa, con nuevos productos diferenciados para diversas necesidades; por ejemplo, Quala ofrece Frutiño, una bebida refrescante, pero también ofrece Nuti Bela para el cabello. Son dos necesidades diferentes que ayuda a aumentar sus ventas y el tamaño de su mercado. 
           br
           br
-          | Para conservar a los clientes actuales, las empresas deben lograr la plena satisfacción de sus clientes, no sólo con la entrega de productos de excelente calidad, sino brindando un nivel de servicio que los mantenga satisfechos y compren siempre la marca.
+          | Para conservar a los clientes actuales, las empresas deben lograr la plena satisfacción de sus clientes, no solo con la entrega de productos de excelente calidad, sino brindando un nivel de servicio que los mantenga satisfechos y compren siempre la marca.
 
       .col-md.tarjeta.color-acento-contenido.p-5(data-aos="fade-left" data-aos-delay="300")
         .row.justify-content-center.mb-4

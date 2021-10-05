@@ -46,9 +46,7 @@
               th Obligación pasajera
               td Relación a largo plazo
     
-    p.mb-5(data-aos="fade-left" data-aos-delay="300") Indudablemente, el cliente es el principal objetivo hacia donde la empresa realiza su mayor esfuerzo, hacía él todos los planes y las estrategias de mercadeo deben enfocarse, desarrollarse e implementarse en función de ese cliente. Por tanto, las empresas tienen diferentes compradores o clientes de acuerdo con el tipo o segmento de mercado en el que compiten o en el que comercializan sus productos. La siguiente figura presenta otros conceptos que se tienden a usar para referirse al mercado, según Schnarch
-      br
-      | (2013, p. 74):
+    p.mb-5(data-aos="fade-left" data-aos-delay="300") Indudablemente, el cliente es el principal objetivo hacia donde la empresa realiza su mayor esfuerzo, hacía él todos los planes y las estrategias de mercadeo deben enfocarse, desarrollarse e implementarse en función de ese cliente. Por tanto, las empresas tienen diferentes compradores o clientes de acuerdo con el tipo o segmento de mercado en el que compiten o en el que comercializan sus productos. La siguiente figura presenta otros conceptos que se tienden a usar para referirse al mercado, según Schnarch (2013, p. 74):
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-up" data-aos-delay="300")
       strong Figura 2 
@@ -58,7 +56,7 @@
         figure
           img(src="@/assets/curso/tema1-imagen2.svg")
 
-    p.mb-5(data-aos="fade-right" data-aos-delay="300") Cada mercado debe conocer sus clientes, la manera cómo decide comprar, cómo convertirlo de Shopper a Buyer y monetizarlo, etc. Este cliente sigue un proceso racional de compra, de acuerdo como lo indica Promove Consultoría e formación, SLNE (2012, p. 15) y que se aprecia a continuación:
+    p.mb-5(data-aos="fade-right" data-aos-delay="300") Cada mercado debe conocer sus clientes, la manera cómo decide comprar, cómo convertirlo de <i>Shopper</i> a <i>Buyer</i> y monetizarlo, etc. Este cliente sigue un proceso racional de compra, de acuerdo como lo indica Promove Consultoría e Formación, SLNE (2012, p. 15) y que se aprecia a continuación:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-up" data-aos-delay="300")
       strong Figura 3 
@@ -99,6 +97,7 @@
             .p-4
               p.mb-0 Comportamiento posventa.
 
+    p.mb-5(data-aos="fade-right" data-aos-delay="300") De esto se desprenden algunos aspectos que se deben tener en cuenta, por ejemplo, donde buscan información los clientes, allí es donde tiene que estar presente la empresa (en forma de folletos, anuncios, y través de algún prescriptor). 
 
     p.mb-5(data-aos="fade-right" data-aos-delay="300") Con base en lo anterior y de acuerdo a los diferentes mercados, que posteriormente se explicarán, se presenta la relación entre estos y el cliente:
     
@@ -134,7 +133,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4t9GKjB0eVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 INSTIPP (2020, p. 38) también indica que estos mercados son aquellos en donde se realizan transacciones de bienes y servicios que se adquieren a través de los productos finales de consumo, los cuales a su vez se pueden clasificar en tres categorías principales:
+    p.mb-5 El INSTIPP (2020, p. 38) también indica que estos mercados son aquellos en donde se realizan transacciones de bienes y servicios que se adquieren a través de los productos finales de consumo, los cuales a su vez se pueden clasificar en tres categorías principales:
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Consumo inmediato" :icono="require('@/assets/curso/tema1-imagen9.svg')")
@@ -155,7 +154,7 @@
               strong Mercados de productos de consumo duradero
               br
               br
-              | Son todos aquellos productos adquiridos que se utilizan a lo largo de diversos períodos de tiempo, incluso cuando ya han perdido su utilidad o se han desactualizado como es el caso los electrodomésticos, por ejemplo.
+              | Son todos aquellos productos adquiridos, que se utilizan a lo largo de diversos períodos de tiempo, incluso cuando ya han perdido su utilidad o se han desactualizado como es el caso de los electrodomésticos, por ejemplo.
           .col-md-4
             img(src='@/assets/curso/tema1-imagen7.png', alt='Texto que describa la imagen')
         
@@ -271,7 +270,7 @@
     Separador
 
     #t_1_4.titulo-segundo
-      h2 1.4  Mercados de revendedores
+      h2 1.4  Mercados de gobierno
 
     p.mb-5 Está formado por las instituciones del gobierno o del sector público que adquieren bienes o servicios para llevar a cabo sus principales funciones; por ejemplo, para la administración del Estado, para brindar servicios sociales (drenaje, pavimentación, limpieza, entre otros.), para mantener la seguridad, etc. 
 
