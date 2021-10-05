@@ -12,7 +12,7 @@
               strong(v-html="item.title")
               br
               br
-              | {{ item.content }}
+              span(v-html="item.content")
 </template>
 
 <script>

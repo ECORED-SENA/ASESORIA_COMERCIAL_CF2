@@ -240,7 +240,7 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Quiroa, M. (2021). Cliente. Economipedia.',
+      texto: 'Quiroa, M. (2021). Cliente. Economipedia. ',
       tipo: 'Pagina web',
       link: 'https://economipedia.com/definiciones/cliente.html',
     },
