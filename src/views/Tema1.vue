@@ -131,7 +131,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/4t9GKjB0eVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/7lccP3U-vbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 El INSTIPP (2020, p. 38) también indica que estos mercados son aquellos en donde se realizan transacciones de bienes y servicios que se adquieren a través de los productos finales de consumo, los cuales a su vez se pueden clasificar en tres categorías principales:
 
