@@ -29,8 +29,8 @@
     &.blue
       background: #DCF2FD
 
-  
-.bloque-texto-g 
+
+.bloque-texto-g
   justify-content: flex-start
   z-index: 1
 .bloque-texto-g__img
@@ -93,3 +93,15 @@
 
 .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
   background-color: #D7F2FB!important
+
+.banner-principal__img
+  img
+    animation: float 6s ease-in-out infinite
+
+@keyframes float
+  0%
+    transform: translatey(0px)
+  50%
+    transform: translatey(-20px)
+  100%
+    transform: translatey(0px)
