@@ -412,7 +412,7 @@ export default {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
-      }
+      },
     ],
   },
   // creditosInicio: [
