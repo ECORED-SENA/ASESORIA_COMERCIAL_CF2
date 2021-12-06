@@ -13,7 +13,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-delay="300")
       .col-lg-11
         .titulo-sexto.color-acento-contenido
-          strong Figura 1 
+          strong Figura 1
           span Roles del cliente
         figure
           img(src="@/assets/curso/tema1-imagen1.svg")
@@ -23,7 +23,7 @@
     .row.justify-content-center(data-aos="fade-right" data-aos-delay="300")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
-          strong Tabla 1 
+          strong Tabla 1
           span Diferencias entre usuario y cliente
         .tabla-b.color-acento-contenido.mb-5
           table
@@ -45,11 +45,11 @@
             tr
               th Obligación pasajera
               td Relación a largo plazo
-    
+
     p.mb-5(data-aos="fade-left" data-aos-delay="300") Indudablemente, el cliente es el principal objetivo hacia donde la empresa realiza su mayor esfuerzo, hacía él todos los planes y las estrategias de mercadeo deben enfocarse, desarrollarse e implementarse en función de ese cliente. Por tanto, las empresas tienen diferentes compradores o clientes de acuerdo con el tipo o segmento de mercado en el que compiten o en el que comercializan sus productos. La siguiente figura presenta otros conceptos que se tienden a usar para referirse al mercado, según Schnarch (2013, p. 74):
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-up" data-aos-delay="300")
-      strong Figura 2 
+      strong Figura 2
       span Conceptos de mercado
     .row.justify-content-center.mb-5(data-aos="fade-up" data-aos-delay="400")
       .col-lg-10
@@ -59,7 +59,7 @@
     p.mb-5(data-aos="fade-right" data-aos-delay="300") Cada mercado debe conocer sus clientes, la manera cómo decide comprar, cómo convertirlo de <i>Shopper</i> a <i>Buyer</i> y monetizarlo, etc. Este cliente sigue un proceso racional de compra, de acuerdo como lo indica Promove Consultoría e Formación, SLNE (2012, p. 15) y que se aprecia a continuación:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-up" data-aos-delay="300")
-      strong Figura 3 
+      strong Figura 3
       span Proceso de compra
     .row.justify-content-center.mb-5
       .col-lg-2(data-aos="fade-up" data-aos-delay="300")
@@ -75,14 +75,14 @@
           .tarjeta.color-acento-contenido.secundario
             .p-4
               p.mb-0 Búsqueda pasiva de la información.
-      
+
       .col-lg-2(data-aos="fade-up" data-aos-delay="300")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen19.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido.principal
             .p-4
               p.mb-0 Evaluación de las distintas alternativas.
-      
+
       .col-lg-2(data-aos="fade-down" data-aos-delay="300")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1-imagen20.svg' alt='AvatarTop')
@@ -97,10 +97,10 @@
             .p-4
               p.mb-0 Comportamiento posventa.
 
-    p.mb-5(data-aos="fade-right" data-aos-delay="300") De esto se desprenden algunos aspectos que se deben tener en cuenta, por ejemplo, donde buscan información los clientes, allí es donde tiene que estar presente la empresa (en forma de folletos, anuncios, y través de algún prescriptor). 
+    p.mb-5(data-aos="fade-right" data-aos-delay="300") De esto se desprenden algunos aspectos que se deben tener en cuenta, por ejemplo, donde buscan información los clientes, allí es donde tiene que estar presente la empresa (en forma de folletos, anuncios, y a través de algún prescriptor).
 
     p.mb-5(data-aos="fade-right" data-aos-delay="300") Con base en lo anterior y de acuerdo a los diferentes mercados, que posteriormente se explicarán, se presenta la relación entre estos y el cliente:
-    
+
     .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-delay="300")
       .col-lg-8
         figure
@@ -117,11 +117,11 @@
         figure
           img(src="@/assets/curso/tema1-imagen5.png")
       .col-lg-6
-        p.mb-0 El mercado de consumo se compone por todas aquellas personas que adquieren o compran bienes y servicios y luego lo utilizan para satisfacer sus necesidades finales. Tiene un papel importante en el desarrollo socioeconómico de una economía, pues es un indicador de ese estado de bienestar, producto de empleos, ingresos y productividad. Entre más crece el empleo hay mayor poder adquisitivo y por ende, las personas compran más, influyendo en el funcionamiento de otros mercados. 
+        p.mb-0 El mercado de consumo se compone por todas aquellas personas que adquieren o compran bienes y servicios y luego lo utilizan para satisfacer sus necesidades finales. Tiene un papel importante en el desarrollo socioeconómico de una economía, pues es un indicador de ese estado de bienestar, producto de empleos, ingresos y productividad. Entre más crece el empleo hay mayor poder adquisitivo y por ende, las personas compran más, influyendo en el funcionamiento de otros mercados.
           br
           br
           | Este mercado, del cual las personas compran bienes y servicios para su uso personal o familiar, tiene comportamientos y decisiones de compra en los consumidores: ¿dónde?, ¿cómo?, ¿cuándo compran?, ¿qué cantidad?, ¿por qué lo hacen? Estos son los interrogantes que a las empresas les interesa conocer para presentar una oferta que le genere valor al cliente.
-    
+
     .row.justify-content-center.mb-5
       .col-lg-9
         .cajon.color-acento-contenido.p-5
@@ -157,7 +157,7 @@
               | Son todos aquellos productos adquiridos, que se utilizan a lo largo de diversos períodos de tiempo, incluso cuando ya han perdido su utilidad o se han desactualizado como es el caso de los electrodomésticos, por ejemplo.
           .col-md-4
             img(src='@/assets/curso/tema1-imagen7.png', alt='Texto que describa la imagen')
-        
+
       .py-4.py-md-5(titulo="Servicios" :icono="require('@/assets/curso/tema1-imagen11.svg')")
         .row.justify-content-center.align-items-center.py-2
           .col-md-4.mb-4.mb-md-0
@@ -165,7 +165,7 @@
               strong Mercados de servicios
               br
               br
-              | Están constituidos por aquellos mercados en los que los compradores individuales o familiares adquieren bienes intangibles para su satisfacción presente o futura. Un ejemplo de ellos es la salud. 
+              | Están constituidos por aquellos mercados en los que los compradores individuales o familiares adquieren bienes intangibles para su satisfacción presente o futura. Un ejemplo de ellos es la salud.
           .col-md-4
             figure
               img(src='@/assets/curso/tema1-imagen8.png', alt='Texto que describa la imagen')
@@ -181,7 +181,7 @@
       | Los mercados industriales tienen tres tipos de compradores y de acuerdo a lo indicado por González (2020), se presenta en la siguiente figura:
 
     TabsA.color-acento-contenido.botones-grises.mb-5
-      //- .tarjeta debe ir acompañado de una de una de estas clases => 
+      //- .tarjeta debe ir acompañado de una de una de estas clases =>
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-primario--borde.color-primario.p-4(titulo="Compradores industriales")
@@ -221,23 +221,23 @@
     p.mb-5 Por otro lado, con la naturaleza de los productos, los mercados industriales pueden clasificarse en:
 
     ol.lista-ol--cuadro.lista-ol--separador.mb-5
-      li 
+      li
         .lista-ol--cuadro__vineta
           span 1
         | Mercados de productos agropecuarios y procedentes del mar.
-      li 
+      li
         .lista-ol--cuadro__vineta
           span 2
         | Mercados de materias primas.
-      li 
+      li
         .lista-ol--cuadro__vineta
           span 3
         | Mercados de productos técnicos o industriales.
-      li 
+      li
         .lista-ol--cuadro__vineta
           span 4
         | Mercados de productos manufacturados.
-      li 
+      li
         .lista-ol--cuadro__vineta
           span 5
         | Mercados de servicios.
@@ -270,9 +270,9 @@
     Separador
 
     #t_1_4.titulo-segundo
-      h2 1.4  Mercados de gobierno
+      h2 1.4  Mercados de Gobierno
 
-    p.mb-5 Está formado por las instituciones del gobierno o del sector público que adquieren bienes o servicios para llevar a cabo sus principales funciones; por ejemplo, para la administración del Estado, para brindar servicios sociales (drenaje, pavimentación, limpieza, entre otros.), para mantener la seguridad, etc. 
+    p.mb-5 Está formado por las instituciones del Gobierno o del sector público que adquieren bienes o servicios para llevar a cabo sus principales funciones; por ejemplo, para la administración del Estado, para brindar servicios sociales (drenaje, pavimentación, limpieza, entre otros.), para mantener la seguridad, etc.
 
     .row.justify-content-center
       .col-lg-5.mb-5.mb-lg-0
@@ -281,7 +281,7 @@
             i.fas.fa-quote-left
             h3.text-regular El Gobierno o las dependencias de Gobierno actúan como clientes en este mercado, puesto que compran los bienes y servicios de otras empresas para ulteriormente ofrecer servicios públicos.
             i.fas.fa-quote-right
-          .bloque-texto-d__autor 
+          .bloque-texto-d__autor
             .h6.mb-0  (Quiroa, 2020).
       .col-lg-5
         figure
@@ -292,7 +292,7 @@
     #t_1_5.titulo-segundo
       h2 1.5  Mercados internacionales
 
-    p.mb-5 Los negocios internacionales involucran el proceso de exportación o importación de algún producto entre países o naciones. Estos negocios pueden efectuarse por empresas o personas naturales. Los clientes de un mercado internacional son consumidores, revendedores y productores de los gobiernos de otros países diferentes al que gestiona. 
+    p.mb-5 Los negocios internacionales involucran el proceso de exportación o importación de algún producto entre países o naciones. Estos negocios pueden efectuarse por empresas o personas naturales. Los clientes de un mercado internacional son consumidores, revendedores y productores de los gobiernos de otros países diferentes al que gestiona.
 
     .row.justify-content-center
       .col-md-10
@@ -301,11 +301,11 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1-imagen16.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Los países procuran exportar los bienes y servicios donde tienen excedentes e importar aquellos bienes y servicios donde no tienen ventajas competitivas. 
+            p.mb-0 Los países procuran exportar los bienes y servicios donde tienen excedentes e importar aquellos bienes y servicios donde no tienen ventajas competitivas.
               br
               br
               | Entiéndase como ventaja competitiva aquella que tiene la empresa de un sector con mayor capacidad para producir algo con atributos y características muy por encima de su competencia.
-  
+
 </template>
 
 <script>
